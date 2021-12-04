@@ -1,0 +1,4 @@
+﻿  Day3.cpp
+C:\Users\20200739\source\repos\AdventOfCode2021\ThirdDay\Day3.cpp(159,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\20200739\source\repos\AdventOfCode2021\ThirdDay\Day3.cpp(190,27): warning C4018: '<': signed/unsigned mismatch
+  ThirdDay.vcxproj -> C:\Users\20200739\source\repos\AdventOfCode2021\ThirdDay\Debug\ThirdDay.exe
